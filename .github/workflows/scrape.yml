@@ -1,4 +1,4 @@
-name: render.yaml
+name: scrape.yaml
 on:
   workflow_dispatch:
 permissions:
